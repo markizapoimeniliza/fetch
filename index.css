@@ -1,0 +1,22 @@
+
+
+
+
+
+
+#header{
+    position: absolute;
+    top: 123px;
+    left: 431px;
+    font-weight: 700; /*bold*/
+    font-size: 43px;
+}
+
+
+
+.png{
+    position: relative;
+    width: 150px;
+    top: 300px;
+    left: 385px;
+}
